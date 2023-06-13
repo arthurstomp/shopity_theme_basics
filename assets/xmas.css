@@ -1,0 +1,23 @@
+.header-wrapper {
+  background-color: red;
+}
+
+.header__heading-link:hover .h2 {
+  color: lightgray;
+}
+
+.header__heading-link .h2 {
+  color: white;
+}
+
+.header__icon {
+  color: white;
+}
+
+.header__menu-item {
+  color: white;
+}
+
+.header__menu-item:hover {
+  color: lightgray;
+}
