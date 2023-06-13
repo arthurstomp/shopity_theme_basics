@@ -2,7 +2,7 @@
   "layout": "xmas",
   "sections": {
     "main": {
-      "type": "main-product",
+      "type": "xmas-product",
       "blocks": {
         "vendor": {
           "type": "text",
